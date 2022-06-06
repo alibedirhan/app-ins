@@ -1,4 +1,4 @@
-# my-applications-installer
+# applications-installer
 
 
 
