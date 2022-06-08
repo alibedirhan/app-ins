@@ -181,6 +181,7 @@ while [ $opt != '' ]
              echo "             Kvantum Manager Kuruldu"
              echo "          ****************************"
              sleep 5
+             show_menu
 
         ;;
         11) clear;
@@ -192,7 +193,7 @@ while [ $opt != '' ]
              echo "                 Chrome Kuruldu"
              echo "          ****************************"
              sleep 5
-
+             show_menu
         ;;
         x)exit;
         ;;
